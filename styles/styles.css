@@ -22,7 +22,8 @@ main {
 }
 .card {
   background-color: var(--White);
-  width: 300px;
+  width: 320px;
+  height: 497px;
   max-width: 90%;
   padding: 15px;
   border-radius: 15px;
