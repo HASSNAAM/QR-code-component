@@ -20,7 +20,7 @@ This project is a solution to the QR code component challenge on Frontend Mentor
 ### Links
 
 - [Solution URL](https://github.com/HASSNAAM/QR-code-component.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://hassnaam.github.io/QR-code-component/)
 
 ## Built With
 
