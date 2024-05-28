@@ -19,7 +19,7 @@ This project is a solution to the QR code component challenge on Frontend Mentor
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/your-solution-url)
+- [Solution URL](https://github.com/HASSNAAM/QR-code-component.git)
 - [Live Site URL](https://your-live-site-url.com)
 
 ## Built With
@@ -41,7 +41,6 @@ I'd like to thank Frontend Mentor for providing this challenge and helping me im
 
 ## Contact
 
-- Website - [Your Website](https://www.your-website.com)
-- GitHub - [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn - [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-
+- Github - [Hassnaa Mahmoud](https://github.com/HASSNAAM)
+- Frontend Mentor - [@HASSNAAM](https://www.frontendmentor.io/profile/HASSNAAM)
+- LinkedIn - [Hassnaa Mahmoud](https://www.linkedin.com/in/hassnaa-mahmoud/)
